@@ -1,0 +1,52 @@
+ "devto-platform": {
+      "command": "/Library/Frameworks/Python.framework/Versions/3.11/bin/uv",
+      "args": [
+        "--directory",
+        "/Users/akashb/Documents/YT/MCP-series",
+        "run",
+        "dev-server.py"
+      ]
+    }
+
+    {
+  "coworkUserFilesPath": "C:\\Users\\Hp\\Claude",
+  "preferences": {
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": false,
+    "sidebarMode": "chat",
+    "bypassPermissionsGateByAccount": {
+      "4f67aac5-09c2-442d-89c5-360a850c5ac1": false
+    },
+    "coworkWebSearchEnabled": true,
+    "coworkModelAutoFallbackByAccount": {
+      "4f67aac5-09c2-442d-89c5-360a850c5ac1": true
+    },
+    "remoteToolsDeviceName": "fysil",
+    "epitaxyPrefs": {
+      "starred-local-code-sessions": [],
+      "starred-cowork-spaces": [],
+      "starred-session-groups": [],
+      "desktop-frame.paneStore.v1": {
+        "state": {
+          "extraPanesByMode": {},
+          "colWeightsByMode": {},
+          "rowSplit": 0.5,
+          "draftNonce": 0
+        },
+        "version": 4
+      },
+      "dframe-group-scopes": {},
+      "dframe-local-slice": {
+        "pinnedOrder": [],
+        "homeProjectsPinnedOrder": []
+      },
+      "ccd-sessions-filter": {
+        "state": {
+          "selectedProjects": []
+        },
+        "version": 0
+      }
+    },
+    "coworkHipaaRestricted": false
+  }
+}
